@@ -67,7 +67,7 @@ END
 
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="1659" height="804" alt="image" src="https://github.com/user-attachments/assets/d3552c53-a367-4901-bcb7-323f5716aeac" />
+<img width="628" height="390" alt="image" src="https://github.com/user-attachments/assets/3be45d1f-248e-40f8-8754-423e6a57347f" />
 
 
 ## 2. SUBTRACTION
@@ -122,7 +122,7 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="1281" height="769" alt="image" src="https://github.com/user-attachments/assets/126795b1-15c2-45d4-8591-ca88c98ee8b6" />
+<img width="629" height="392" alt="image" src="https://github.com/user-attachments/assets/39e20cec-937c-42a7-abbf-7471aa31401f" />
 
 
 
@@ -173,7 +173,7 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="1201" height="733" alt="image" src="https://github.com/user-attachments/assets/035a11e8-3224-47cb-aeec-ab32ad6697a1" />
+<img width="634" height="394" alt="image" src="https://github.com/user-attachments/assets/d0513b33-8a08-469f-95a4-a2ea38849ff1" />
 
 
 ## 4. DIVISION
@@ -222,7 +222,8 @@ END
 
 
 ## OUTPUT FROM MASM SOFTWARE
-<img width="1191" height="736" alt="image" src="https://github.com/user-attachments/assets/323b2287-2b5d-485e-b912-bfe2e6094037" />
+<img width="624" height="386" alt="image" src="https://github.com/user-attachments/assets/f776ddb7-ec7f-4a8b-b186-f081eb5e292f" />
+
 
 
 
