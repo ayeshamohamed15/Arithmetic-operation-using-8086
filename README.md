@@ -62,6 +62,7 @@ END
 | 1202: 31                | 1206: 00                 |
 | 1203: 12                | 1207: C4                 |
 #### Manual Calculations
+<img width="201" height="349" alt="image" src="https://github.com/user-attachments/assets/caa07a0b-02d3-4841-8363-81506e3b02ea" />
 
 
 
@@ -115,6 +116,7 @@ END
 |  1202: 31               |  1206:   00              |
 |  1203: 12               |  1207:   C4              |
 #### Manual Calculations
+<img width="214" height="346" alt="image" src="https://github.com/user-attachments/assets/0bb96f56-eb1a-4c27-88e8-d2393bd1d440" />
 
 
 
@@ -214,6 +216,7 @@ END
 |  1203: 12               | 1207: 00                 |
 
 #### Manual Calculations
+<img width="188" height="351" alt="image" src="https://github.com/user-attachments/assets/e281e3d7-865a-46bd-a50c-b80e9b8aafd2" />
 
 
 
