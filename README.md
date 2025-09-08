@@ -61,11 +61,12 @@ END
 | 1202: 31                | 1206: 00                 |
 | 1203: 12                | 1207: C4                 |
 #### Manual Calculations
-![add manual](https://github.com/user-attachments/assets/6c9db824-3c1b-4d85-a3eb-677a52b4715f)
+![add manual](https://github.com/user-attachments/assets/5293cb12-9fcd-4a1b-98c7-422be8da0bf5)
+
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-![ayesha add 1 1](https://github.com/user-attachments/assets/ce904ac9-efeb-43d7-be78-f8b6e4dfc990)
-![ayesha add 1](https://github.com/user-attachments/assets/9c8870fb-05fa-4934-adf8-42a11ea8e440)
+![AYESHA add1 1](https://github.com/user-attachments/assets/8c920187-4435-4822-a311-be36a4bfe03c)
+![AYESHA add1](https://github.com/user-attachments/assets/a31f0663-7d45-4d69-ab85-2594555f29e6)
 
 
 ## 2. SUBTRACTION
@@ -116,10 +117,8 @@ END
 ![sub manual](https://github.com/user-attachments/assets/c7113350-2236-4acf-9dab-0df74b6b0143)
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-![ayesha sub 2 1](https://github.com/user-attachments/assets/71e9c5ad-d8bc-416b-b61a-d6d9f315da87)
-![ayesha sub 2](https://github.com/user-attachments/assets/3f270596-f6b2-478a-bf5e-9429b843a364)
-
-
+![AYESHA sub2 1](https://github.com/user-attachments/assets/3e30b04e-3896-499a-bba2-5c0ecb1d53bf)
+![AYESHA sub2](https://github.com/user-attachments/assets/f28cb65d-e3e0-43ac-85d1-daf832bc9e0c)
 
 ## 3. MULTIPLICATION
 
@@ -168,9 +167,8 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-![ayesha mul 3 1](https://github.com/user-attachments/assets/2606d8bc-3c55-4429-957c-9fe95cb313a1)
-![ayesha mul 3](https://github.com/user-attachments/assets/3da588de-9dfa-4967-89bb-17e165b6507c)
-
+![AYESHA mul 3 1](https://github.com/user-attachments/assets/eddf2cd9-7544-4709-baa9-f3a24e9598a6)
+![AYESHA mul3](https://github.com/user-attachments/assets/bafa2c8b-d4d6-41ae-93f6-28054459f84d)
 
 ## 4. DIVISION
 
@@ -216,8 +214,8 @@ END
 
 
 ## OUTPUT FROM MASM SOFTWARE
-![ayesha div 4 1](https://github.com/user-attachments/assets/dd03fe53-1382-4e8a-8be0-89bc385b5c2d)
-![ayesha div 4](https://github.com/user-attachments/assets/4900a849-5c13-4818-b5cc-8f9a4fd30f70)
+![AYESHA div4 1](https://github.com/user-attachments/assets/e572d239-3d44-4b12-bb4f-c217ebcfc666)
+![AYESHA div4](https://github.com/user-attachments/assets/c7bc9758-f16e-43a3-9b62-4c1d21c44558)
 
 
 
